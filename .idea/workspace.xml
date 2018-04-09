@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cef20d3-1106-4e23-b6a3-71c18505fa57" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/portal/fw/common/models/users/UserToSec.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portal/storage/user/mng-photo-1.jpg" />
+      <change beforePath="$PROJECT_DIR$/portal/.htaccess" afterPath="$PROJECT_DIR$/portal/.htaccess" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/assets/AppAsset.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/codeception.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/config/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/config/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/config/params.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/config/test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/controllers/SiteController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/models/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/runtime/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_data/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_data/login_data.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_output/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_support/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_support/FunctionalTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/_support/UnitTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/functional.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/functional/LoginCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/functional/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/unit.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/tests/unit/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/views/layouts/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/views/site/error.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/views/site/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/backend/views/site/login.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/common/behaviors/Lang.php" afterPath="$PROJECT_DIR$/portal/fw/common/behaviors/Lang.php" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/common/behaviors/TokenLogin.php" afterPath="$PROJECT_DIR$/portal/fw/common/behaviors/TokenLogin.php" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/common/models/goods_circle/GoodsCircle.php" afterPath="$PROJECT_DIR$/portal/fw/common/models/goods_circle/GoodsCircle.php" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/composer.lock" afterPath="$PROJECT_DIR$/portal/fw/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/console/controllers/RbacController.php" afterPath="$PROJECT_DIR$/portal/fw/console/controllers/RbacController.php" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/environments/dev/yii_test.bat" afterPath="$PROJECT_DIR$/portal/fw/environments/dev/yii_test.bat" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/assets/AppAsset.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/codeception.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/config/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/config/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/config/params.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/config/test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/BidController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/BrandPromotionController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/ContactsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/DashboardController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/DefaultController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/DocumentsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/EventsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/FilmController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/GoodsCircleController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/MaterialsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/NotificationsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/QuestionsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/SiteController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/SoapController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/UserAuthController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/controllers/UserController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/models/ContactForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/models/Film.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/models/PasswordResetRequestForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/models/ResetPasswordForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/models/SignupForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/runtime/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_data/login_data.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_data/user.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_output/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_support/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_support/FunctionalTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/_support/UnitTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/acceptance.suite.yml.example" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/acceptance/HomeCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/acceptance/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional/AboutCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional/ContactCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional/HomeCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional/LoginCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional/SignupCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/functional/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/unit.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/unit/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/unit/models/ContactFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/unit/models/PasswordResetRequestFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/unit/models/ResetPasswordFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/tests/unit/models/SignupFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/layouts/api_layout.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/layouts/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/about.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/contact.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/error.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/login.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/requestPasswordResetToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/resetPassword.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/frontend/views/site/signup.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/init" afterPath="$PROJECT_DIR$/portal/fw/init" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/init.bat" afterPath="$PROJECT_DIR$/portal/fw/init.bat" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/yii" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/yii.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/yii_test" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/fw/yii_test.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portal/storage/contacts/photo/mng-photo-1.jpg" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/portal" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="45" />
+    <option name="width" value="1352" />
+    <option name="height" value="671" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API_электронный_кабинет" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API_электронный_кабинет" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="API_электронный_кабинет" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API_электронный_кабинет" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portal" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="API_электронный_кабинет" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API_электронный_кабинет" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fw" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="API_электронный_кабинет" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API_электронный_кабинет" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fw" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="console" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cef20d3-1106-4e23-b6a3-71c18505fa57" name="Default" comment="" />
+      <created>1523281230780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523281230780</updated>
+      <workItem from="1523281234606" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="732000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="45" width="1368" height="678" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/portal" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

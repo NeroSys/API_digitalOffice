@@ -1,0 +1,14 @@
+/index.php
+/index-test.php
+storage/tmp/
+/fw/vendor/
+fw/vendor/codeception/base/tests/data/claypit/tests/_output/
+fw/vendor/codeception/base/tests/data/included/_log/
+fw/vendor/codeception/base/tests/data/included/jazz/pianist/tests/_log/
+fw/vendor/codeception/base/tests/data/included/jazz/tests/_log/
+fw/vendor/codeception/base/tests/data/included/shire/tests/_log/
+fw/vendor/codeception/base/tests/data/included_mix/src/foo/AcmePack/tests/_log/
+fw/vendor/codeception/base/tests/data/included_w/src/foo/AcmePack/tests/_log/
+fw/vendor/ezyang/htmlpurifier/plugins/phorum/htmlpurifier/
+fw/vendor/yiisoft/yii2/console/runtime/
+.idea/
